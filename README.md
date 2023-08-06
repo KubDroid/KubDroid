@@ -87,6 +87,9 @@ snake -->
 
 - ☁️ Participated as an expert user and functional lead for core banking transformation projects.
 
+- ☁️ I have expertise in local credit regulatory norms of Costa Rica and international IFRS regulations.
+
+
 </Div>
 <!--Intro end-->
 
