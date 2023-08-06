@@ -141,7 +141,7 @@ snake -->
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powershell,html,css,js,php,mysql,wordpress,discord,vscode,py,dotnet,devto,git,github&perline=5" />
+    <img src="https://skillicons.dev/icons?i=powershell,html,css,js,php,mysql,wordpress,discord,vscode,py,dotnet,devto,git,github,bash&perline=5" />
   </a>
 </p>
 
