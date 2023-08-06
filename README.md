@@ -60,6 +60,7 @@ snake -->
 
 
 <!--Intro start-->
+<Div>
 - 🔭  **Goals For 2024-2025**
 
 - 🌱 I’m currently learning **Python for data science.**
@@ -73,14 +74,16 @@ snake -->
 - 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
 
 - 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+</Div>
 
+<Div>
 - 🧑‍💻  **Work experience**
 
 - 📝 I have been working in Banking and Finance since 2007, with a special emphasis on  **Local Regulatory matters.**
 
 - ☁️ Participated as an expert user and functional lead for core banking transformation projects.
 
-
+</Div>
 <!--Intro end-->
 
 
