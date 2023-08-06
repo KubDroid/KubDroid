@@ -76,7 +76,9 @@ snake -->
 
 - 🧑‍💻  **Work experience**
 
-- 🌱 I’m currently learning **Python for data science.**
+- 📝 I have been working in Banking and Finance since 2007, with a special emphasis on  **Local Regulatory matters.**
+
+- ☁️ Participated as an expert user and functional lead for core banking transformation projects.
 
 
 <!--Intro end-->
