@@ -64,6 +64,7 @@ snake -->
 <h4>
 - 🔭  **Goals For 2024-2025**
 </h4>
+
 - 🌱 I’m currently learning **Python for data science.**
 
 - ☁️ I’m interested in learning other programming languages such as Java, C++, and C#.I've keen interest in cloud computing. So,I'm learning **AWS**
@@ -81,6 +82,7 @@ snake -->
 <h4>
 - 🧑‍💻  **Work experience**
 </h4>
+
 - 📝 I have been working in Banking and Finance since 2007, with a special emphasis on  **Local Regulatory matters.**
 
 - ☁️ Participated as an expert user and functional lead for core banking transformation projects.
@@ -171,8 +173,9 @@ snake -->
   
 </p>
 
-
+<h4>
 #### 🔭 Fun stats
+<h4>
 <!--
 ![Metrics](https://raw.githubusercontent.com/KubDroid/KubDroid/main/github-metrics.svg?)
 -->
