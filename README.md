@@ -177,6 +177,8 @@ snake -->
 
 [![](https://visitcount.itsvg.in/api?id=KubDroid&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
+</a>
+
 </div>
 
 <!--horizontal divider(gradiant)-->
