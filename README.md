@@ -85,10 +85,13 @@ snake -->
 
 - 📝 I have been working in Banking and Finance since 2007, with a special emphasis on  **Local Regulatory matters.**
 
-- ☁️ Participated as an expert user and functional lead for core banking transformation projects.
+- 🧑‍💼 Participated as an expert user and functional lead for core banking transformation projects.
 
-- ☁️ I have expertise in local credit regulatory norms of Costa Rica and international IFRS regulations.
+- 🧑‍⚖️ I have expertise in local credit regulatory norms of Costa Rica and international IFRS regulations.
 
+- 📫 Sending credit information to local regulators through XML files.
+
+- ☁️ Calculation of credit estimates according to local regulations.
 
 </Div>
 <!--Intro end-->
