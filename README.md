@@ -59,11 +59,6 @@ snake -->
 
 
 
-#### 🔭 Fun stats
-
-![Metrics](https://raw.githubusercontent.com/KubDroid/KubDoridGit/main/github-metrics.svg?)
-
-
 <!--Intro start-->
 - 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
 
