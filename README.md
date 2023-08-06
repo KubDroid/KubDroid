@@ -60,7 +60,7 @@ snake -->
 
 
 <!--Intro start-->
-- 🔭  **Goals For 2024**
+- 🔭  **Goals For 2024-2025**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
@@ -73,6 +73,10 @@ snake -->
 - 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
 
 - 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+
+- 🔭  **Goals For 2024**
+
+
 <!--Intro end-->
 
 
