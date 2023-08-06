@@ -62,7 +62,7 @@ snake -->
 <!--Intro start-->
 - 🔭  **Goals For 2024-2025**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **Python for data science.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
@@ -74,7 +74,9 @@ snake -->
 
 - 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
 
-- 🔭  **Goals For 2024**
+- 🧑‍💻  **Work experience**
+
+- 🌱 I’m currently learning **Python for data science.**
 
 
 <!--Intro end-->
@@ -164,17 +166,17 @@ snake -->
 
 
 #### 🔭 Fun stats
-
+<!--
 ![Metrics](https://raw.githubusercontent.com/KubDroid/KubDroid/main/github-metrics.svg?)
-
+-->
 
 
 
 <!--profile visit count-->
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=KubDroid&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+
+[![](https://visitcount.itsvg.in/api?id=KubDroid&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 </div>
 
 <!--horizontal divider(gradiant)-->
@@ -183,4 +185,4 @@ snake -->
 ----------------------------------------------------------------------
 Credit: [Alejandro Cubillo Steller](https://github.com/KubDroid)
 
-Last Edited on: 05/08/2023
+Last Edited on: 06/08/2023
