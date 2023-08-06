@@ -64,7 +64,7 @@ snake -->
 
 - 🌱 I’m currently learning **Python for data science.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I’m interested in learning other programming languages such as Java, C++, and C#.I've keen interest in cloud computing. So,I'm learning **AWS**
 
 - 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
 
