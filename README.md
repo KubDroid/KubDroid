@@ -67,7 +67,18 @@ snake -->
 
 - 🌱 I’m currently learning **Python for data science.**
 
-- ☁️ I’m interested in learning other programming languages such as Java, C++, and C#.I've keen interest in cloud computing. So,I'm learning **AWS**
+- 🧑‍💻 I’m interested in learning other programming languages such as Java, C++, and C#.
+
+- ☁️ I've keen interest in cloud computing. 
+
+
+- 🧑‍💻 I want to focus on improving and expanding knowledge in data science.
+
+- 🖥️ Generate more projects for web programming.
+
+<!-- 
+So,I'm learning **AWS** 
+
 
 - 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
 
@@ -76,6 +87,8 @@ snake -->
 - 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
 
 - 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+
+-->
 </Div>
 
 <Div>
@@ -94,6 +107,23 @@ snake -->
 - ☁️ Calculation of credit estimates according to local regulations.
 
 </Div>
+
+
+<Div>
+<h4>
+- 🧑‍💻  **Knowledge & education**
+</h4>
+
+- 👨‍🎓 I am a graduated administrator with expertise in accounting, finance, statistics, process analysis, organizational analysis, project management, organizational prospective analysis, information systems management, **with an emphasis on public administration and business management.**
+
+- 🧑‍💻 I have degrees or certifications and studies in office tool packages and various knowledge in programming languages and servers.
+
+</Div>
+
+
+
+
+
 <!--Intro end-->
 
 
