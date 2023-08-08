@@ -71,8 +71,7 @@ snake -->
 
 - ☁️ I've keen interest in cloud computing. 
 
-
-- 🧑‍💻 I want to focus on improving and expanding knowledge in data science.
+- 🧑‍💻 Expanding knowledge in data science.
 
 - 🖥️ Generate more projects for web programming.
 
