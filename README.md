@@ -183,7 +183,7 @@ So,I'm learning **AWS**
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,aws,cs,cpp,java&perline=5" />
+    <img src="https://skillicons.dev/icons?i=django,aws,cs,cpp,dotnet,java&perline=5" />
   </a>
 </p>
 
