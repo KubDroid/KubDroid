@@ -28,7 +28,7 @@ jobs:
           user: KubDroid
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Taipei
+          config_timezone: America/Costa_Rica
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
