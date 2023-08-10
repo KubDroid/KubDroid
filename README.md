@@ -211,9 +211,10 @@ So,I'm learning **AWS**
 <h4>
 #### 🔭 Fun stats
 <h4>
-<!--
+<!---->
+
 ![Metrics](https://raw.githubusercontent.com/KubDroid/KubDroid/main/github-metrics.svg?)
--->
+
 
 
 <!--profile visit count-->
