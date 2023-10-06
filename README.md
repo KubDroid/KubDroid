@@ -1,4 +1,3 @@
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -232,4 +231,4 @@ So,I'm learning **AWS**
 ----------------------------------------------------------------------
 Credit: [Alejandro Cubillo Steller](https://github.com/KubDroid)
 
-Last Edited on: 11/08/2023
+Last Edited on: 05/10/2023
