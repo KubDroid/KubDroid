@@ -169,7 +169,7 @@ So,I'm learning **AWS**
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powershell,html,css,js,php,bash,mysql,mongodb,postgres,wordpress,discord,vscode,py,git,github,bash,linux&perline=5" />
+    <img src="https://skillicons.dev/icons?i=powershell,html,css,js,php,mysql,mongodb,postgres,wordpress,discord,vscode,py,git,github,bash,linux&perline=5" />
   </a>
 </p>
 
@@ -182,7 +182,7 @@ So,I'm learning **AWS**
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,docker,kubernetes,tensorflow,pytorch,bsd,nodejs,devto,aws,cs,cpp,dotnet,java&perline=5" />
+    <img src="https://skillicons.dev/icons?i=django,docker,kubernetes,jenkins,githubactions,tensorflow,pytorch,bsd,nodejs,devto,aws,azure,cs,cpp,dotnet,java&perline=5" />
   </a>
 </p>
 
