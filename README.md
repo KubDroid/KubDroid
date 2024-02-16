@@ -133,9 +133,9 @@ So,I'm learning **AWS**
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=KubDroid&theme=catppuccin_mocha&show_icons=true&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="Alejandro Cubillo's GitHub Stats"/>
+  <img  align="center"  alt="Alejandro Cubillo's GitHub Stats" title="Alejandro Cubillo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KubDroid&theme=catppuccin_mocha&show_icons=true&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KubDroid&theme=catppuccin_mocha&hide_border=false"/> 
+  <img  title="Streak Stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=KubDroid&theme=catppuccin-mocha"/> 
 </td>
 
 <td width="50%" align="center">
