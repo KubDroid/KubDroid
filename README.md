@@ -140,7 +140,7 @@ So,I'm learning **AWS**
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KubDroid&theme=dracula&hide_border=false&no-bg=false&no-frame=true&langs_count=15"/>
+  <img  align="center"  src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KubDroid&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)"/>
   
   </td>
 </tr>
