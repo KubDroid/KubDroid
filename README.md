@@ -133,14 +133,14 @@ So,I'm learning **AWS**
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  alt="Alejandro Cubillo's GitHub Stats" title="Alejandro Cubillo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KubDroid&theme=catppuccin_mocha&show_icons=true&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+  <img align="center" alt="Alejandro Cubillo's GitHub Stats" title="Alejandro Cubillo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KubDroid&theme=catppuccin_mocha&show_icons=true&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
   <br></br>
-  <img  title="Streak Stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=KubDroid&theme=catppuccin-mocha"/> 
+  <img  title="Streak Stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=KubDroid&theme=horizon"/> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center" alt="Top-languages" title="Top-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KubDroid&theme=dracula&hide_border=false&no-bg=false&no-frame=true&langs_count=15&layout=donut-vertical"/>
+  <img align="center" alt="Top-languages" title="Top-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KubDroid&theme=prussian&hide_border=false&no-bg=false&no-frame=true&langs_count=15&layout=donut-vertical"/>
   
   </td>
 </tr>
@@ -149,8 +149,8 @@ So,I'm learning **AWS**
 
 <!--- trophy (start) -->
 <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=KubDroid&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy" alt="TROPHY" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=KubDroid&theme=onestar&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
     </a>
 </div>
 <!--- trophy (start) -->
