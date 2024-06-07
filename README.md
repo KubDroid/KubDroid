@@ -3,6 +3,7 @@
 
 <h3 align="center">
     🎧 Rock & Metal enthusiast - 🐧 linux Geek - 🧙‍♂️ Harry Potter fanatic
+    <br>
     📚 Book Reader - ☕ Coffee addict - 🧉 Mate Lover
 </h3>
 
