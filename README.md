@@ -171,7 +171,7 @@ So,I'm learning **AWS**
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powershell,html,css,js,php,mysql,mongodb,postgres,wordpress,discord,vscode,py,git,github,bash,linux,ubuntu,debian,sass,bootstrap,vim&perline=5" />
+    <img src="https://skillicons.dev/icons?i=powershell,html,css,js,php,mysql,mongodb,postgres,wordpress,discord,figma,vscode,py,r,git,github,bash,linux,ubuntu,debian,sass,bootstrap,vim&perline=5" />
   </a>
 </p>
 
@@ -233,4 +233,4 @@ So,I'm learning **AWS**
 ----------------------------------------------------------------------
 Credit: [Alejandro Cubillo Steller](https://github.com/KubDroid)
 
-Last Edited on: 22/06/2024
+Last Edited on: 16/07/2024
